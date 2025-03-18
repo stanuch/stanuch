@@ -4,7 +4,3 @@
 - Learning programming through **CS50 and other courses**  
 - Exploring **Python, C and web development**  
 - Writing my **bachelor's thesis on expansion microscopy w/ data analysis**  
-
-### Tech Stack (so far) 🚀  
-- **Python, C**  
-- **Learning more every day!**  
