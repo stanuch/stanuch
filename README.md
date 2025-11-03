@@ -1,12 +1,1 @@
-### Hi! 👋
-I’m Aleksander, a 4th-year Molecular and Cellular Biophysics student from Cracow, Poland. 
-I’m curious about how DNA and proteins work, and I’m trying to convince code to help me figure it out.
-
- 💻 Skills & Interests
-- Programming: Python, C, basic web development
-- Bioinformatics: Genomics, protein analysis, medical data
-- Research: Expansion microscopy, cellular and molecular data analysis
-
-🌱 Learning
-- Advanced data analysis for biological research
-- Computational tools for medical bioinformatics
+<img width="600" height="350" alt="sad" src="https://github.com/user-attachments/assets/953512c5-3dda-4528-a728-cde6b2716ee9" />
