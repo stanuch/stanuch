@@ -10,8 +10,7 @@
 
 🧠 I like (and am doing my best) to build tools that help make sense of biological data.
 
-
-##
+<br>
 
 ### 🔍 About me
 I build small **bioinformatics tools** that analyze and visualize biological data — things like GC content calculators, sequence aligners, and molecular data explorers. I enjoy connecting **biology, programming, and data analysis** to understand how molecular systems work beneath the surface. Currently, I’m focusing on **advanced data analysis**, **computational biology**, and **machine learning**, aiming to combine science with data-driven approaches. I code mostly in **Python**, occasionally experimenting with web tools to make science more interactive and accessible.
