@@ -6,7 +6,7 @@
 
 🔬 A 4th-year Molecular and Cellular Biophysics student from Cracow, Poland.
 
-🧬 I'm curious about how biology works and I’m trying to convince code to help me figure it out.
+🧬 I'm curious about how biology works and I’m trying to convince code to help me out.
 
 🧠 I like (and am doing my best) to build tools that help make sense of biological data.
 
