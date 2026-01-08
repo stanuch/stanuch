@@ -2,10 +2,7 @@
 
 ### Hey!
 
-I'm **Aleksander**.
+I'm **Aleksander**, a Molecular and Cellular Biophysics student with a strong interest in bioinformatics.
 
-A 4th-year Molecular and Cellular Biophysics student from Cracow, Poland.
-
-I'm curious about how biology works and I’m trying to convince code to help me out.
-
-I like (and am doing my best) to build tools that help make sense of biological data.
+My main areas of interest are microscopy image analysis and DNA-level biological data. 
+I have hands-on experience in academic research and microscopy imaging, and I’m currently developing Python-based projects that combine biological data analysis with machine learning. My goal is to build tools that help make sense of biological data and support data-driven research.
